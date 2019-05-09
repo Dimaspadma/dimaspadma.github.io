@@ -1,0 +1,60 @@
+nav img {
+    transition: 0.2s;
+    width: 30px;
+}
+
+nav img:hover {
+    width: 40px;
+}
+
+.top {
+    font-weight: bold;
+    transition: 0.2s;
+}
+
+.top:hover {
+    font-size: 25px;
+}
+
+nav .home a {
+    transition: 0.2s;
+}
+
+nav .home a:hover {
+    font-weight: bold;
+}
+
+.jumbotron {
+    color: #555;
+    margin-bottom: 50px;
+}
+
+.jumbotron .img-circle {
+    border: 5px  solid #666;
+    border-radius: 50%;
+    margin-bottom: 50px;
+    width: 200px;
+}
+
+.jumbotron p {
+    font-size: 20px;
+}
+
+.portofolio {
+    background-color: #eee;
+    padding: 50px;
+}
+
+.about {
+    padding: 50px;
+}
+
+section {
+    min-height: 500px;
+}
+
+hr {
+    border-top: 3px  solid #555;
+    margin-bottom: 50px;
+    width: 250px;
+}
